@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package ren.qinc.servicetimetest.core;
+package ren.qinc.servertimetest.core;
 
 import android.os.SystemClock;
 

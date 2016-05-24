@@ -1,4 +1,4 @@
-package ren.qinc.servicetimetest;
+package ren.qinc.servertimetest;
 
 import org.junit.Test;
 

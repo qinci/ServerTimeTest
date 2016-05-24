@@ -1,4 +1,4 @@
-package ren.qinc.servicetimetest;
+package ren.qinc.servertimetest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 import java.util.Date;
 
-import ren.qinc.servicetimetest.core.ServerTime;
+import ren.qinc.servertimetest.core.ServerTime;
 
 public class MainActivity extends AppCompatActivity {
 

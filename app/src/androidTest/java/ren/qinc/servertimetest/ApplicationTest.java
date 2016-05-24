@@ -1,4 +1,4 @@
-package ren.qinc.servicetimetest;
+package ren.qinc.servertimetest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
